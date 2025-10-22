@@ -1,10 +1,10 @@
 # [level 2] H-Index - 42747 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42747) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42747?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 93.4 MB, 시간: 5.56 ms
+메모리: 64 MB, 시간: 19.96 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 10월 22일 15:10:03
+2025년 10월 22일 15:17:34
 
 ### 문제 설명
 
